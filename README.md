@@ -1,13 +1,15 @@
 ### Hi there, I'm Eric
 email me: ewolos@g.ucla.edu
 
-## I'm a UCLA Senior with a passion for Machine Learning
-- Over the past year I've been working on projects in data science, machine learning, and deep learning
+## I'm a UCLA Senior with a passion for Machine Learning and Data Science
+- Over the past couple years I've been working on projects in data science, machine learning, and deep learning
+- In 2023, I finished my capstone project for the UCLA Computational and Systems Biology B.S. program. Link below!
 - In 2021, I completed a Data Science internship where I automated data collection systems
 - I'm easy-going, cooperative, and enthusiastic
 
 ## Check out some of my projects:
 * [Driving Semantic Segmentation -> Image Processing and Segmentation!](https://github.com/ericw15/deep-learning-stock-forecasting)
+* [Capstone Project -> Statistical Analysis with Epigenetics!](https://github.com/ericw15/Island-Foxes-Genomic-Flatlining/blob/main/M187%20Poster%20.pdf)
 * [Stock Forecasting -> Developing/Backtesting Financial Models!](https://github.com/ericw15/driving-semantic-segmentation)
 * [AWS ML Classification -> Using Spark on an AWS EMR cluster to compare ML models!](https://github.com/ericw15/spark-AWS)
 
