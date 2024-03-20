@@ -5,7 +5,6 @@ email me: ericjw@optonline.net
 - I have experience working on a wide variety of projects in data science, machine learning, and deep learning
 - In 2023, I finished my capstone project for the UCLA Computational and Systems Biology B.S. program. Link below!
 - In 2021, I completed a Data Science internship where I automated data collection systems
-- I'm easy-going, cooperative, and enthusiastic
 
 ## Check out some of my personal projects:
 * [C++ NN from Scratch -> Low Level Deep Learning Implementation!](https://github.com/ericw15/Cpp-Neural-Network-Scratch)
