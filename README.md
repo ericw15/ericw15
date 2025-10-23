@@ -8,9 +8,9 @@ email me: ericjw@optonline.net
 
 ## Check out some of my personal projects:
 * [C++ NN from Scratch -> Low Level Deep Learning Implementation!](https://github.com/ericw15/Cpp-Neural-Network-Scratch)
-* [Driving Semantic Segmentation -> Image Processing and Segmentation!](https://github.com/ericw15/deep-learning-stock-forecasting)
+* [Driving Semantic Segmentation -> Image Processing and Segmentation!](https://github.com/ericw15/driving-semantic-segmentation)
 * [Capstone Project -> Statistical Analysis with Epigenetics!](https://github.com/ericw15/Island-Foxes-Genomic-Flatlining/blob/main/M187%20Poster%20.pdf)
-* [Stock Forecasting -> Developing/Backtesting Financial Models!](https://github.com/ericw15/driving-semantic-segmentation)
+* [Stock Forecasting -> Developing/Backtesting Financial Models!](https://github.com/ericw15/deep-learning-stock-forecasting)
 * [AWS ML Classification -> Using Spark on an AWS EMR cluster to compare ML models!](https://github.com/ericw15/spark-AWS)
 
 
