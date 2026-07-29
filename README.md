@@ -7,6 +7,11 @@ email me: ewolos015@gmail.com
 - In 2023, I finished my capstone project for the UCLA Computational and Systems Biology B.S. program. Link below!
 - In 2021, I completed a Data Science internship where I automated data collection systems
 
+## Recent Research
+Identifier-Free Code Embedding Models for Scalable Search
+[Preprint](https://arxiv.org/abs/2605.05251)
+[Code](https://github.com/MITRE-Identifier-Free-Code-Embedding/Identifier-Free-Code-Embedding)
+
 ## Check out some of my personal projects:
 * [C++ NN from Scratch -> Deep Learning Implementation!](https://github.com/ericw15/Cpp-Neural-Network-Scratch)
 * [Driving Semantic Segmentation -> Image Processing and Segmentation!](https://github.com/ericw15/driving-semantic-segmentation)
