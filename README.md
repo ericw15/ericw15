@@ -5,11 +5,10 @@ email me: ewolos015@gmail.com
 - I have experience working on a wide variety of projects in data science, machine learning, and deep learning
 - I've been a full-time engineer from July 2023-2026.
 - In 2023, I finished my capstone project for the UCLA Computational and Systems Biology B.S. program. Link below!
-- In 2021, I completed a Data Science internship where I automated data collection systems
 
 ## Recent Research
-Identifier-Free Code Embedding Models for Scalable Search
-[Preprint](https://arxiv.org/abs/2605.05251)
+* Identifier-Free Code Embedding Models for Scalable Search:
+[Preprint](https://arxiv.org/abs/2605.05251),
 [Code](https://github.com/MITRE-Identifier-Free-Code-Embedding/Identifier-Free-Code-Embedding)
 
 ## Check out some of my personal projects:
