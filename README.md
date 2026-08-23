@@ -12,6 +12,7 @@ email me: ewolos015@gmail.com
 [Code](https://github.com/MITRE-Identifier-Free-Code-Embedding/Identifier-Free-Code-Embedding)
 
 ## Check out some of my personal projects:
+* [Energy Equity Portfolio Research!](https://github.com/ericw15/energy-portfolio-opt)
 * [C++ NN from Scratch -> Deep Learning Implementation!](https://github.com/ericw15/Cpp-Neural-Network-Scratch)
 * [Driving Semantic Segmentation -> Image Processing and Segmentation!](https://github.com/ericw15/driving-semantic-segmentation)
 * [Capstone Project -> Statistical Analysis with Epigenetics!](https://github.com/ericw15/Island-Foxes-Genomic-Flatlining/blob/main/M187%20Poster%20.pdf)
